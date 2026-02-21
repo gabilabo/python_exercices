@@ -1,2 +1,2 @@
 # python_exercices
-exercices de TD dans l'uiversité Lumièere Lyon 2
+exercices de TD dans l'université Lumièere Lyon 2
